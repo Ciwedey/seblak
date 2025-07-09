@@ -1,0 +1,9 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "maven.terminal.favorites":[
+        {
+            "alias": "TestNG - Saucedemo Regression suite",
+            "command": "clean test -Dsurefire.suiteXmlFiles=src/test/resources/testrunners/testng_regression.xml"
+        }
+    ]
+}
