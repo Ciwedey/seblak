@@ -63,7 +63,7 @@ seblak/
 1. **Clone the Repository**
    ```sh
    git clone <repository-url>
-   cd playwrightjava
+   cd seblak
    ```
 
 2. **Install Dependencies**
@@ -95,6 +95,10 @@ Or use the VS Code task defined in `.vscode/settings.json`.
 - Add new page classes in `src/main/java/com/qa/saucedemo/pages/`.
 - Add new test classes in `src/test/java/com/qa/saucedemo/tests/`.
 - Update or add constants in `AppConstants.java` as needed.
+
+## Surefire result report example
+
+![alt text](ss_report_surefire.png)
 
 ## Conclusion
 
